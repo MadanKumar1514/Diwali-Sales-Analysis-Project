@@ -1,0 +1,27 @@
+Diwali Sales Python Project
+
+Tasks
+1.Drop the columns having only NULL values
+2.Check for null values and drop them
+3.Change amount decimal values into integers
+4.Rename the columns
+5.Describe only desired columns 
+6.Compare orders based on gender  
+7.Compare purchasing power based on gender
+8.Find out which age group buyers bought more and compare by gender OR
+  compare no. of customers based on age-group along with gender
+  
+9.Total amount vs age-group by amount 
+10.Top 10 states based on orders
+11.Top 10 states based on amount along with gender 
+12.Compare total orders based on marital status
+13.Compare total amount based on marital status along with gender
+14. compare total orders based on Occupation
+15. compare total amount based on Occupation
+16. compare total orders based on product
+16. Top 10 products based on sales amount , also with .plot(kind="bar") method
+
+
+
+
+
